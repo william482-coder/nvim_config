@@ -1,0 +1,5 @@
+require 'hop'.setup()
+require('custom.lua.openLink')
+require('custom.lua.basic')
+require('custom.lua.powershell')
+require('custom.lua.mapping')
